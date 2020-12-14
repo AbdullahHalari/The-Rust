@@ -1,0 +1,12 @@
+D:\PIAIC IoT\code\Quarter-1_9.00-12.00-master\class10\target\debug\deps\cc-59736add36863d2d.rmeta: C:\Users\DELL\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.45\src\lib.rs C:\Users\DELL\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.45\src\registry.rs C:\Users\DELL\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.45\src\winapi.rs C:\Users\DELL\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.45\src\com.rs C:\Users\DELL\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.45\src\setup_config.rs C:\Users\DELL\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.45\src\windows_registry.rs
+
+D:\PIAIC IoT\code\Quarter-1_9.00-12.00-master\class10\target\debug\deps\libcc-59736add36863d2d.rlib: C:\Users\DELL\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.45\src\lib.rs C:\Users\DELL\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.45\src\registry.rs C:\Users\DELL\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.45\src\winapi.rs C:\Users\DELL\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.45\src\com.rs C:\Users\DELL\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.45\src\setup_config.rs C:\Users\DELL\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.45\src\windows_registry.rs
+
+D:\PIAIC IoT\code\Quarter-1_9.00-12.00-master\class10\target\debug\deps\cc-59736add36863d2d.d: C:\Users\DELL\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.45\src\lib.rs C:\Users\DELL\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.45\src\registry.rs C:\Users\DELL\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.45\src\winapi.rs C:\Users\DELL\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.45\src\com.rs C:\Users\DELL\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.45\src\setup_config.rs C:\Users\DELL\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.45\src\windows_registry.rs
+
+C:\Users\DELL\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.45\src\lib.rs:
+C:\Users\DELL\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.45\src\registry.rs:
+C:\Users\DELL\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.45\src\winapi.rs:
+C:\Users\DELL\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.45\src\com.rs:
+C:\Users\DELL\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.45\src\setup_config.rs:
+C:\Users\DELL\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.45\src\windows_registry.rs:

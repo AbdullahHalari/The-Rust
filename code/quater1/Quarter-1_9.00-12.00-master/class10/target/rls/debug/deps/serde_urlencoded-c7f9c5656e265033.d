@@ -1,0 +1,11 @@
+d:\PIAIC IoT\code\Quarter-1_9.00-12.00-master\class10\target\rls\debug\deps\serde_urlencoded-c7f9c5656e265033.rmeta: C:\Users\DELL\.cargo\registry\src\github.com-1ecc6299db9ec823\serde_urlencoded-0.5.5\src\lib.rs C:\Users\DELL\.cargo\registry\src\github.com-1ecc6299db9ec823\serde_urlencoded-0.5.5\src\de.rs C:\Users\DELL\.cargo\registry\src\github.com-1ecc6299db9ec823\serde_urlencoded-0.5.5\src\ser\mod.rs C:\Users\DELL\.cargo\registry\src\github.com-1ecc6299db9ec823\serde_urlencoded-0.5.5\src\ser\key.rs C:\Users\DELL\.cargo\registry\src\github.com-1ecc6299db9ec823\serde_urlencoded-0.5.5\src\ser\pair.rs C:\Users\DELL\.cargo\registry\src\github.com-1ecc6299db9ec823\serde_urlencoded-0.5.5\src\ser\part.rs C:\Users\DELL\.cargo\registry\src\github.com-1ecc6299db9ec823\serde_urlencoded-0.5.5\src\ser\value.rs
+
+d:\PIAIC IoT\code\Quarter-1_9.00-12.00-master\class10\target\rls\debug\deps\serde_urlencoded-c7f9c5656e265033.d: C:\Users\DELL\.cargo\registry\src\github.com-1ecc6299db9ec823\serde_urlencoded-0.5.5\src\lib.rs C:\Users\DELL\.cargo\registry\src\github.com-1ecc6299db9ec823\serde_urlencoded-0.5.5\src\de.rs C:\Users\DELL\.cargo\registry\src\github.com-1ecc6299db9ec823\serde_urlencoded-0.5.5\src\ser\mod.rs C:\Users\DELL\.cargo\registry\src\github.com-1ecc6299db9ec823\serde_urlencoded-0.5.5\src\ser\key.rs C:\Users\DELL\.cargo\registry\src\github.com-1ecc6299db9ec823\serde_urlencoded-0.5.5\src\ser\pair.rs C:\Users\DELL\.cargo\registry\src\github.com-1ecc6299db9ec823\serde_urlencoded-0.5.5\src\ser\part.rs C:\Users\DELL\.cargo\registry\src\github.com-1ecc6299db9ec823\serde_urlencoded-0.5.5\src\ser\value.rs
+
+C:\Users\DELL\.cargo\registry\src\github.com-1ecc6299db9ec823\serde_urlencoded-0.5.5\src\lib.rs:
+C:\Users\DELL\.cargo\registry\src\github.com-1ecc6299db9ec823\serde_urlencoded-0.5.5\src\de.rs:
+C:\Users\DELL\.cargo\registry\src\github.com-1ecc6299db9ec823\serde_urlencoded-0.5.5\src\ser\mod.rs:
+C:\Users\DELL\.cargo\registry\src\github.com-1ecc6299db9ec823\serde_urlencoded-0.5.5\src\ser\key.rs:
+C:\Users\DELL\.cargo\registry\src\github.com-1ecc6299db9ec823\serde_urlencoded-0.5.5\src\ser\pair.rs:
+C:\Users\DELL\.cargo\registry\src\github.com-1ecc6299db9ec823\serde_urlencoded-0.5.5\src\ser\part.rs:
+C:\Users\DELL\.cargo\registry\src\github.com-1ecc6299db9ec823\serde_urlencoded-0.5.5\src\ser\value.rs:
